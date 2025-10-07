@@ -5,7 +5,8 @@ This Power BI project provides an interactive analysis of sales, profit, and qua
 The dashboard helps stakeholders quickly understand performance trends, regional contributions, and product-wise profitability.
 
 
-## 📸 Dashboard Previ<img width="1564" height="683" alt="Screenshot (526)" src="https://github.com/user-attachments/assets/8dff0d59-4a16-4de0-8a3d-d4d49f0fc2b8" />
+## 📸 Dashboard Preview 
+<img width="1564" height="683" alt="Screenshot (526)" src="https://github.com/user-attachments/assets/8dff0d59-4a16-4de0-8a3d-d4d49f0fc2b8" />
 ew
 ![Dashboard Screenshot]()
 
