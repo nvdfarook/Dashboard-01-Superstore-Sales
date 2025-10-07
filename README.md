@@ -78,7 +78,7 @@ The dataset is connected to the Power BI Service with **daily scheduled refresh*
 
 ---
 
-## 🌐 Live Dashboard (Optional)
+## 🌐 Live Dashboard 
 
 
 [🔗 [View Published Report](#)](https://app.powerbi.com/groups/me/reports/3d2bb4a0-3924-4a2d-ac39-9cbb2c5049b3/ebcfc52581988d7505e3?experience=power-bi)  
