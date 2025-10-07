@@ -6,7 +6,8 @@ The dashboard helps stakeholders quickly understand performance trends, regional
 
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](./dashboard_screenshot.png)
+![Dashboard Screenshot](<img width="1564" height="683" alt="Screenshot (526)" src="https://github.com/user-attachments/assets/f4d2e721-510c-4b42-a88c-ce5356962751" />
+)
 
 
 ---
